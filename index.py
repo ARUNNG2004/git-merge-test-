@@ -9,3 +9,5 @@ def example_task():
 if __name__ == "__main__":
     print("Executing batch 1:")
     example_task()
+print("Executing batch 2:")
+    example_task()
